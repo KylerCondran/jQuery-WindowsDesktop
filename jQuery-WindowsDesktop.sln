@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "jQuery-WindowsDesktop", "jQuery-WindowsDesktop\", "{2110BAF6-B396-4958-A9FA-DB9F57345927}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52593"
+		Debug.AspNetCompiler.PhysicalPath = "jQuery-WindowsDesktop\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52593\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52593"
+		Release.AspNetCompiler.PhysicalPath = "jQuery-WindowsDesktop\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52593\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52593"
+		SlnRelativePath = "jQuery-WindowsDesktop\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2110BAF6-B396-4958-A9FA-DB9F57345927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2110BAF6-B396-4958-A9FA-DB9F57345927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9E6E866-2F22-4BAA-828C-D9DB1E9253FC}
+	EndGlobalSection
+EndGlobal
