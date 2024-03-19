@@ -334,7 +334,7 @@
           <span class="float_right">
             <a href="#" class="window_min"></a>
             <a href="#" class="window_resize"></a>
-            <a href="#app7" class="window_close"></a>
+            <a href="#app8" class="window_close"></a>
           </span>
         </div>
         <div class="abs window_content">
