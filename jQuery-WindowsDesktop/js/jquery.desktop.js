@@ -310,12 +310,7 @@ var JQD = (function($, window, document, undefined) {
                 $('.gamewindow').css({ 'display': 'none' });
                 $('.gameoptions').css({ 'display': '' });
                 $('#gamedropdown').val("0");
-            } else if ($(this).closest('div.window').attr('id') == 'window_app8') {
-                document.getElementById('mediaiframe').src = '';
-                $('.mediawindow').css({ 'display': 'none' });
-                $('.mediaoptions').css({ 'display': '' });
-                $('#mediadropdown').val("0");
-            }
+            } 
         });
 
         // Minimize Apps Button
