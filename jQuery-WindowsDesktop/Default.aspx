@@ -562,15 +562,15 @@ Internet access"></span>
         } else if (selectedVal == '10') {
             document.getElementById('gameiframe').src = 'https://dos.zone/player/?bundleUrl=https%3A%2F%2Fcdn.dos.zone%2Fcustom%2Fdos%2Fepic-pinball-the-complete-collection.jsdos?anonymous=1';
         } else if (selectedVal == '11') {
-            document.getElementById('gameiframe').src = 'https://online-emulators.com/msdos/game/?game=lemmings';
+            document.getElementById('gameiframe').src = 'https://msdos-games.com/game/?prn=lemmings';
         } else if (selectedVal == '12') {
-            document.getElementById('gameiframe').src = 'https://online-emulators.com/msdos/game/?game=quake';
+            document.getElementById('gameiframe').src = 'https://msdos-games.com/game/?prn=quake';
         } else if (selectedVal == '13') {
-            document.getElementById('gameiframe').src = 'https://online-emulators.com/msdos/game/?game=commandredalert';
+            document.getElementById('gameiframe').src = 'https://msdos-games.com/game/?prn=commandredalert';
         } else if (selectedVal == '14') {
-            document.getElementById('gameiframe').src = 'https://online-emulators.com/msdos/game/?game=sf2';
+            document.getElementById('gameiframe').src = 'https://msdos-games.com/game/?prn=sf2';
         } else if (selectedVal == '15') {
-            document.getElementById('gameiframe').src = 'https://online-emulators.com/msdos/game/?game=worms';
+            document.getElementById('gameiframe').src = 'https://msdos-games.com/game/?prn=worms';
         }
         $('.gamewindow').css({ 'display': '' });
         $('.gameoptions').css({ 'display': 'none' });
