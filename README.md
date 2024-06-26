@@ -1,6 +1,6 @@
 # jQuery-WindowsDesktop
 
-JavaScript Windows Web Desktop environment built with jQuery + ASP.NET.
+JavaScript Windows Web Desktop environment built with jQuery + ASP.NET. A website that pretends to be an operating system.
 
 <img src="https://repository-images.githubusercontent.com/774564876/b8c91d9e-3f92-45d3-a008-831d89a67df8" title="jQuery-WindowsDesktop">
 
